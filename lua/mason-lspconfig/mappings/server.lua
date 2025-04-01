@@ -70,6 +70,7 @@ M.lspconfig_to_package = {
     ["fsautocomplete"] = "fsautocomplete",
     ["gitlab_ci_ls"] = "gitlab-ci-ls",
     ["ginko_ls"] = "ginko_ls",
+    ["gleam"] = "gleam",
     ["glint"] = "glint",
     ["glsl_analyzer"] = "glsl_analyzer",
     ["glslls"] = "glslls",
